@@ -37,6 +37,7 @@ menus:
     - Home: /
     - About: /about/
     - Join: /join/
+    - Projects: /projects/
     - Chapters: /chapters/
 
 #    side:
