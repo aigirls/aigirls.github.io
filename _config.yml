@@ -32,6 +32,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+menus:
+    main:
+    - Home: /
+    - About: /about/
+    - Chapters: /chapters/
+    - Join: /join/
+#    side:
+#    - Categories: /categories/
+#    - Tags: /tags/
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
