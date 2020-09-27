@@ -36,8 +36,9 @@ menus:
     main:
     - Home: /
     - About: /about/
-    - Chapters: /chapters/
     - Join: /join/
+    - Chapters: /chapters/
+
 #    side:
 #    - Categories: /categories/
 #    - Tags: /tags/
